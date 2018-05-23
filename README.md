@@ -1,4 +1,4 @@
 # gogo
 
 
- vhttps://nghiax.github.io/gogo/
+ visit my page at: https://nghiax.github.io/gogo/
